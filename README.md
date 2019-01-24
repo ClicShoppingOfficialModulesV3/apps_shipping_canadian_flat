@@ -15,7 +15,7 @@ http://monsite/myAdmin/index.php?A&Shipping\CanadianFlat
 
 Activate the module in Shipping
 
-link marketplace : https://www.clicshopping.org/forum/files/file/60-apps-shipping-canadian-flat/
+link marketplace : https://www.clicshopping.org/forum/files/file/62-apps-shipping-canadian-flat/
 
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_canadian_flat/blob/master/ModuleInfosJson/image.png)
